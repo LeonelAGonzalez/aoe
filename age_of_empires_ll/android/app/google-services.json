@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "754255548708",
+    "project_id": "civilizaciones-age-of-empires",
+    "storage_bucket": "civilizaciones-age-of-empires.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754255548708:android:42b4a5017cd3f1532063b1",
+        "android_client_info": {
+          "package_name": "com.example.age_of_empires_ll"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcRj9utwdxtZj3oSYcNGDuYswAPFCgYsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
